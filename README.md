@@ -1,2 +1,1 @@
-# site
-Repository for GitHub pages, available at &lt;TODO>.
+Repository for GitHub pages, available at https://gt-sse-center.github.io/site/.
